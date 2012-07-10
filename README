@@ -1,0 +1,3 @@
+a few months ago I had a chance to work on a small project with my pal Juan (www.stg7.net). Basically, this app allows you to adjust (meaning - increase and decrease amount of elements) a simple input form, which will then graph the ratio of elements on a pie chart, graph chart or produce an .xml file with your results. Graphs are being returned back to the page using AJAX as .PNGs, so the entire drawing takes place in a back-end php script.
+
+full article at http://www.passionmakes.us/2012/07/graphing-with-php/
